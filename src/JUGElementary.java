@@ -52,13 +52,14 @@ public class JUGElementary
 
 
 //        НАВИГЦИЯ
-//      SHIFT + SHIFT
+//      SHIFT + SHIFT (Alt + Enter внутри, назначает хоткей)
 //      Alt + Стрелки
 //      Ctrl + Alt + Стрелки
 //      Ctrl + E - Навигация по файлам
 //      Ctrl + Shift + E - Последние открытые места
 //      Ctrl + F12
 //      Ctrl + Shift + V - История клипборда
+//      Ctrl + B
 //      Ctrl + Shift + [0,9] - Закладки
 
 //    LIVE TEMPLATES - быстрее и безопаснее.
